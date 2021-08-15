@@ -25,8 +25,6 @@ namespace semana3_estructuras_de_control
             {
                 opciones();
             }
-
-
         }
 
 
